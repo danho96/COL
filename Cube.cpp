@@ -112,7 +112,7 @@ bool Cube::collision(Obj * obj)
 	
 	if (((this->getPosX() + (this->getSizeX())/2.0) > (obj->getPosX() - c->getSizeX() / 2.0)) && ((this->getPosX() - this->getSizeX() / 2.0) < (obj->getPosX() + c->getSizeX() / 2.0)))
 	{
-		if (((this->getPosZ() + (this->getSizeZ()) / 2.0) > (obj->getPosZ() - c->getSizeZ() / 2.0)) && ((this->getPosZ() - this->getSizeZ() / 2.0) < (obj->getPosZ() + c->getSizeZ() / 2.0)))
+		if (((this->getPosY() + (this->getSizeY()) / 2.0) > (obj->getPosY() - c->getSizeY() / 2.0)) && ((this->getPosY() - this->getSizeY() / 2.0) < (obj->getPosY() + c->getSizeY() / 2.0)))
 		{
 			if (((this->getPosZ() + (this->getSizeZ()) / 2.0) > (obj->getPosZ() - c->getSizeZ() / 2.0)) && ((this->getPosZ() - this->getSizeZ() / 2.0) < (obj->getPosZ() + c->getSizeZ() / 2.0)))
 			{
