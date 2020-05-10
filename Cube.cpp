@@ -117,14 +117,14 @@ bool Cube::collision(Obj * obj)
 			if (((this->getPosZ() + (this->getSizeZ()) / 2.0) > (obj->getPosZ() - c->getSizeZ() / 2.0)) && ((this->getPosZ() - this->getSizeZ() / 2.0) < (obj->getPosZ() + c->getSizeZ() / 2.0)))
 			{
 				c->set_color((GLfloat*)Colors[rand() % 10]);
-				return true;
+				
 
 			}
-			Daniel = false;
+			
 		}
-		Daniel = false;
+		
 	}
-	Daniel = false;
+	
 	
 	}
 	
@@ -140,14 +140,14 @@ bool Cube::collision(Obj * obj)
 				if ((this->getPosZ() + (this->getSizeZ()) / 2.0) > (s->getMinz()) && ((this->getPosZ() - this->getSizeZ() / 2.0) < (s->getMaxz())))
 				{
 					s->set_color((GLfloat*)Colors[rand() % 10]);
-					return true;
+					
 
 				}
-				Daniel = false;
+				
 			}
-			Daniel = false;
+			
 		}
-		Daniel = false;
+		
 
 	}
 	

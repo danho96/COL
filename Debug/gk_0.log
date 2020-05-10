@@ -1,3 +1,4 @@
 ﻿  Cube.cpp
+D:\grafika komputerowa\COL\10_Col\Cube.cpp(135,8): warning C4101: "Daniel": lokalna zmienna, do której nie istnieje odwołanie
 Cube.obj : warning LNK4075: zignorowano opcję „/EDITANDCONTINUE” z powodu określenia opcji „/INCREMENTAL:NO”
   gk_0.vcxproj -> D:\grafika komputerowa\COL\10_Col\Debug\gk__col_10.exe
