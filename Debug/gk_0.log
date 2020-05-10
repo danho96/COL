@@ -1,0 +1,3 @@
+﻿  Cube.cpp
+Cube.obj : warning LNK4075: zignorowano opcję „/EDITANDCONTINUE” z powodu określenia opcji „/INCREMENTAL:NO”
+  gk_0.vcxproj -> D:\grafika komputerowa\COL\10_Col\Debug\gk__col_10.exe

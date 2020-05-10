@@ -1,0 +1,24 @@
+﻿  Cube.cpp
+  gk_col_10.cpp
+  Obj.cpp
+  Sphere.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+glut32.lib(glut32.dll) : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+D:\grafika komputerowa\COL\10_Col\Release\gk__col_10.exe : fatal error LNK1281: Nie można wygenerować obrazu SAFESEH.
